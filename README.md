@@ -22,7 +22,7 @@
   <a href="klson.dev"  target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
   <a href="https://www.instagram.com/kelson.dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
-![Snake animation](kelsonoliveira)
+
           
             
             
